@@ -125,11 +125,6 @@ public class BaseDeDonnees extends SQLiteOpenHelper{
 		cv9.put(AGENCE_COLUMN_DESCRIPTION, "Compagnie Western Union");
 		cv9.put(AGENCE_COLUMN_VILLE, "Yaoundé");
 		cv9.put(AGENCE_COLUMN_LOGO, "western_union");
-		ContentValues cv = new ContentValues();
-		cv.put(AGENCE_COLUMN_NAME, "Western Union");
-		cv.put(AGENCE_COLUMN_DESCRIPTION, "Compagnie Western Union");
-		cv.put(AGENCE_COLUMN_VILLE, "Yaoundé");
-		cv.put(AGENCE_COLUMN_LOGO, "western_union");
 		db.insert(AGENCE_TABLE_NAME, null, cv1);
 		db.insert(AGENCE_TABLE_NAME, null, cv2);
 		db.insert(AGENCE_TABLE_NAME, null, cv3);
