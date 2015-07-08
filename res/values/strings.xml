@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TransCom</string>
+    <string name="copyrigth">Copyrigth&#169; Novazen 2015. \nAll Rigthts Reserved</string>
+    <string name="agences_name"></string>
+    <string name="titre">Comparateur de compagnies de transfert d\'argent</string>
+    <string name="titre2">Taux de transfert selon les différentes agences</string>
+    <string name="montant">Montant:</string>
+    <string name="montantValue">Montant en FCFA</string>
+    <string name="localisation">Localisation:</string>
+    <string-array name="localisationValue">
+        <item >Bafoussam</item>
+        <item >Bamenda</item>
+        <item >Bangangté</item>
+        <item >Bertoua</item>
+        <item >Bouda</item>
+        <item >Douala</item>
+        <item >Dschang</item>
+        <item >Edéa</item>
+        <item >Garoua</item>
+        <item >Loum</item>
+        <item >Maroua</item>
+        <item >Ngaoundéré</item>
+        <item >Nkongsamba</item>
+        <item >Yaoundé</item>
+    </string-array>
+    <string name="destination">Destination:</string>
+    <string-array name="destinationValue">
+        <item >Bafoussam</item>
+        <item >Bamenda</item>
+        <item >Bangangté</item>
+        <item >Bertoua</item>
+        <item >Bouda</item>
+        <item >Douala</item>
+        <item >Dschang</item>
+        <item >Edéa</item>
+        <item >Garoua</item>
+        <item >Loum</item>
+        <item >Maroua</item>
+        <item >Ngaoundéré</item>
+        <item >Nkongsamba</item>
+        <item >Yaoundé</item>
+    </string-array>
+    <string name="valider">Valider</string>
+    <string name="action_settings">Settings</string>
+    <string name="titre3">Sous agences de: </string>
+
+</resources>
